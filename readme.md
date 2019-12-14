@@ -41,5 +41,3 @@ Kontak
 --------------
 Email : haryanto.duwi@gmail.com
 
-HP : 0857454545
-
