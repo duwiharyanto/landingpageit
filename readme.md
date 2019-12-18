@@ -6,6 +6,8 @@ Landingpage untuk list aplikasi sitem IT, aplikasi ini dibangun menggunakan **[B
 
 [![dashboard.png](https://b.imge.to/2019/12/14/vQrygt.png)](https://imge.to/i/vQrygt)
 
+[![vOgjV0.png](https://c.imge.to/2019/12/18/vOgjV0.png)](https://imge.to/i/vOgjV0)
+
 
 Sistem yang dibutuhkan 
 ------------------------------
