@@ -220,7 +220,7 @@
 							</a>
 						</div>
 						<div class="col-md-2 text-center">
-							<a href="./logout.php">
+							<a href="../logout.php">
 							<img src="../img/icon/logout.png" alt="Circle Image" class="mt-5 rounded-circle img-fluid image">
 							<h2 class="heading-section mb-4">
 								<small>Logout</small>

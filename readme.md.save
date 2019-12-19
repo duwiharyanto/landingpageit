@@ -1,0 +1,40 @@
+Intro
+============
+
+Aplikasi untuk landingpage program di IT rumah sakit UII, aplikasi ini dibangun menggunakan **[Bootstrap 4](https://getbootstrap.com)** dan php native 
+
+
+[![Dashboard.png](https://b.imge.to/2019/12/14/vQrygt.png)](https://imge.to/i/vQrygt)
+
+
+Sistem yang dibutuhkan 
+------------------------------
+- Database mysql
+- php versi 5.6 keatas
+
+
+Instalasi
+------------
+Berikut cara instalasi
+
+#### Download:
+
+Download from [Githu.
+
+#### Using The Command Line:
+
+__Via Git__
+- Clone to your machine
+```
+git clone https://github.com/duwiharyanto/aplikasilapor
+```
+
+Dukungan Browser
+---------------
+- IE 10+
+- Firefox
+- Chrome
+- Safari
+- Opera 
+
+
