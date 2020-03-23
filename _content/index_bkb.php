@@ -186,15 +186,7 @@
 								<small>Router</small>
 							</h2>
 							</a>
-						</div>
-						<div class="col-md-2 text-center">
-							<a href="http://192.168.50.111/logbook" target="_blank">
-							<img src="../img/icon/note.png" alt="Circle Image" class="mt-5 rounded-circle img-fluid image">
-							<h2 class="heading-section mb-4">
-								<small>Catatan</small>
-							</h2>
-							</a>
-						</div>							
+						</div>	
 						<div class="col-md-2 text-center">
 							<a href="http://192.168.50.1:1118/graphs/" target="_blank">
 							<img src="../img/icon/area-chart.png" alt="Circle Image" class="mt-5 rounded-circle img-fluid image">
